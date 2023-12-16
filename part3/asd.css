@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+
+}
+
+
+.gallery {
+    height: 400px;
+    background: silver;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
